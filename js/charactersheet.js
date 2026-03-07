@@ -1246,28 +1246,28 @@ function resetTemps(){
     tempSelections=["", "", "", "", "", ""];
 }
 
-let backgroundURL = 'https://www.swncharactercreator.com/js/backgrounds_wwn.json';
+let backgroundURL = './js/backgrounds_wwn.json';
 var backgrounds;
 
-let skillURL = 'https://www.swncharactercreator.com/js/skill_wwn.json';
+let skillURL = './js/skill_wwn.json';
 var skills;
 
-let fociURL = 'https://www.swncharactercreator.com/js/foci_wwn.json';
+let fociURL = './js/foci_wwn.json';
 var foci;
 
-let classURL = 'https://www.swncharactercreator.com/js/class_wwn.json';
+let classURL = './js/class_wwn.json';
 var classes;
 
-let traditionsURL = 'https://www.swncharactercreator.com/js/traditions.json';
+let traditionsURL = './js/traditions.json';
 var traditions;
 
-let spellsURL = 'https://www.swncharactercreator.com/js/spells.json';
+let spellsURL = './js/spells.json';
 var spells;
 
-let artsURL = 'https://www.swncharactercreator.com/js/arts.json';
+let artsURL = './js/arts.json';
 var arts;
 
-let packagesURL = 'https://www.swncharactercreator.com/js/equipment_packages_wwn.json';
+let packagesURL = './js/equipment_packages_wwn.json';
 var packages;
 
 
