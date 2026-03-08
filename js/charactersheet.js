@@ -1246,16 +1246,16 @@ function resetTemps(){
     tempSelections=["", "", "", "", "", ""];
 }
 
-let backgroundURL = './js/backgrounds_wwn.json';
+let backgroundURL = './js/backgrounds.json';
 var backgrounds;
 
-let skillURL = './js/skill_wwn.json';
+let skillURL = './js/skill.json';
 var skills;
 
-let fociURL = './js/foci_wwn.json';
+let fociURL = './js/foci.json';
 var foci;
 
-let classURL = './js/class_wwn.json';
+let classURL = './js/class.json';
 var classes;
 
 let traditionsURL = './js/traditions.json';
@@ -1267,7 +1267,7 @@ var spells;
 let artsURL = './js/arts.json';
 var arts;
 
-let packagesURL = './js/equipment_packages_wwn.json';
+let packagesURL = './js/equipment_packages.json';
 var packages;
 
 
